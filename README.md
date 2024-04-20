@@ -8,7 +8,7 @@
 
 # Goals
 * This study focuses on extensible methods to fuse sensors complementarily in different combinations.
-
+<img width="70%" src=https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/issues/1#issue-2254518283/>
 # Assignment
 * Kalman-filter-like tracking method based on the Bayesian framework with a minimum number of nodes
 * Efficient graph generation method with temporal node integration
