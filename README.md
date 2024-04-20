@@ -33,7 +33,7 @@ conducted as follows in cases of D1 and D2: In D1, using a prebuilt CAD map with
 by tracking a robot’s position; In D2, using a map built from the D1 case, our SLAM algorithm incrementally associates a LiDAR keyframe to a frame node
 on the backbone.
 
-Incremental mapping results: (a) A CAD map, (b) the mapping result of case D1, (c) the
+Incremental mapping results at Incheon International Airport: (a) A CAD map, (b) the mapping result of case D1, (c) the
 mapping result of case D2. Gray regions are occupied spaces, and white-colored regions are free
 spaces. Identical colored frame nodes means that they were generated at the same epoch.
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/00ecac5c-ee82-49a3-aafb-18656e9be439)
