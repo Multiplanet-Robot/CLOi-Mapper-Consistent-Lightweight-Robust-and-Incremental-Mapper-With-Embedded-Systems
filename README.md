@@ -21,7 +21,7 @@
 
 # How to use the dataset
 
-* The dataset will be released after the publication of the paper.
+* The dataset (R9-home) will be released after the publication of the paper.
 * Blue dots represent nodes after pruning.
 * Gray dots represent nodes before pruning.
 
