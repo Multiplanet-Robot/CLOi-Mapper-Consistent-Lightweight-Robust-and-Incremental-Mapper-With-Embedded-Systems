@@ -22,7 +22,8 @@
 # How to use the dataset
 
 * The dataset will be released after the publication of the paper.
-* The dataset will be released after the publication of the paper.
+* Blue dots represent nodes after pruning.
+* Gray dots represent nodes before pruning.
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/ca6cc753-71fb-4a94-a03c-6fcd6c70db2b)
 
