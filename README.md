@@ -6,3 +6,15 @@
 * Jeongsik Choi, Advanced Robotics Lab. LG Electronics Inc. (E-mail: jeongs.choi@lge.com)
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
 
+# Goals
+### Number of simultaneous monitoring agents
+* Total number of mobile/fixed monitoring agents that can be controlled and scheduled per second (10 or more)
+
+# Assignment
+* Information analysis system design/implementation
+* Multi-modal monitoring data management (MAMS - Multi-Agent Monitoring System)
+* Outdoor abnormal situation DB purification/tagging
+
+# Citation
+
+* BibTeX CLOi-Mapper (RA-L)
