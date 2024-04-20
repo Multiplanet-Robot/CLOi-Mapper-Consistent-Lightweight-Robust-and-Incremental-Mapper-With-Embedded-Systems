@@ -23,15 +23,16 @@
 * The dataset will be released after the publication of the paper.
 * SLAM poses data
 
-	int nKeyFrameIx;		// keyframe index
-	int nMapIx;			// local map index
-	int nSceneIx;			// local scene index
-	XYThetaFloat32_t stSLAMPose;	// slam pose
- 	FILE* pFile = fopen("Log\\SLAM_pose.co", "rb");
- 	while(!feof(pFile)){
-		fread(&nKeyFrameIx, sizeof(int), 1, pFile);
-		fread(&nMapIx, sizeof(int), 1, pFile);
-		fread(&nSceneIx, sizeof(int), 1, pFile);
-		fread(&stSLAMPose, sizeof(XYThetaFloat32_t), 1, pFile);
- 	}
- 	fclose(pFile);
+*	int nKeyFrameIx;		// keyframe index
+*	int nMapIx;			// local map index
+*	int nSceneIx;			// local scene index
+*	XYThetaFloat32_t stSLAMPose;	// slam pose
+* 	FILE* pFile = fopen("Log\\SLAM_pose.co", "rb");
+* 	while(!feof(pFile))
+* 	{
+*		fread(&nKeyFrameIx, sizeof(int), 1, pFile);
+*		fread(&nMapIx, sizeof(int), 1, pFile);
+*		fread(&nSceneIx, sizeof(int), 1, pFile);
+*		fread(&stSLAMPose, sizeof(XYThetaFloat32_t), 1, pFile);
+*	}
+*	fclose(pFile);
