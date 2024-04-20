@@ -24,6 +24,8 @@
 
 * BibTeX of CLOi-Mapper (RA-L) will be released after the publication of the paper.
 
+# System Configuration of CLOi Guidbot
+
 # How to use the dataset
 
 * The dataset (R9-home) will be released after the publication of the paper.
