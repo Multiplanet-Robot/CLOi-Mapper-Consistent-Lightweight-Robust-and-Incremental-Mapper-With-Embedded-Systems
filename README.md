@@ -7,13 +7,12 @@
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
 
 # Goals
-### Number of simultaneous monitoring agents
-* Total number of mobile/fixed monitoring agents that can be controlled and scheduled per second (10 or more)
+* This study focuses on extensible methods to fuse sensors complementarily in different combinations.
 
 # Assignment
-* Information analysis system design/implementation
-* Multi-modal monitoring data management (MAMS - Multi-Agent Monitoring System)
-* Outdoor abnormal situation DB purification/tagging
+* Kalman-filter-like tracking method based on the Bayesian framework with a minimum number of nodes
+* Efficient graph generation method with temporal node integration
+* Node pruning to mitigate the degradation of measurements from low-cost sensors
 
 # Citation
 
