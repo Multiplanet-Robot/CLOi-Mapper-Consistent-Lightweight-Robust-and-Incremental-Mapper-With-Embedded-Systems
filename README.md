@@ -8,8 +8,6 @@
 
 # Goals
 * This study focuses on extensible methods to fuse sensors complementarily in different combinations.
-![SensorConfiguration](https://user-images.githubusercontent.com/51143120/201525432-29c7a41b-cd18-447e-b1ce-a07e2fcc5f80.png)
-
 
 # Assignment
 * Kalman-filter-like tracking method based on the Bayesian framework with a minimum number of nodes
