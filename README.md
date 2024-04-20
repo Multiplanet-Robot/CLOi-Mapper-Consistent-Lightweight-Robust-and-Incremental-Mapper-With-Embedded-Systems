@@ -17,7 +17,7 @@
 
 # Citation
 
-* BibTeX CLOi-Mapper (RA-L)
+* BibTeX of CLOi-Mapper (RA-L) will be released after the publication of the paper.
 
 # How to use the dataset
 
@@ -27,6 +27,6 @@
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/ca6cc753-71fb-4a94-a03c-6fcd6c70db2b)
 
-
+# Incremental Mapping
 
 
