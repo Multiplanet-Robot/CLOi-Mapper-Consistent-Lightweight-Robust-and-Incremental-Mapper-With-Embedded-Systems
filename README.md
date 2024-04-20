@@ -11,9 +11,7 @@
  
 ![Robots](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/2d6f8d98-ce17-4046-8a20-f3963219590c)
 
-* There were too many repetitive patterns in the airport.
- 
-![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/a1816067-d759-4ecb-ae1b-a615acf7b549)
+
 
 # Assignment
 * Kalman-filter-like tracking method based on the Bayesian framework with a minimum number of nodes
@@ -27,6 +25,9 @@
 # System Configuration of CLOi Guidbot named as Airstar
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
+* There were too many repetitive patterns in the airport.
+ 
+![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/a1816067-d759-4ecb-ae1b-a615acf7b549)
 # How to use the dataset
 
 * The dataset (R9-home) will be released after the publication of the paper.
