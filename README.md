@@ -9,6 +9,8 @@
 # Goals
 * This study focuses on extensible methods to fuse sensors complementarily in different combinations.
 
+
+
 # Assignment
 * Kalman-filter-like tracking method based on the Bayesian framework with a minimum number of nodes
 * Efficient graph generation method with temporal node integration
