@@ -24,7 +24,8 @@
 
 * BibTeX of CLOi-Mapper (RA-L) will be released after the publication of the paper.
 
-# System Configuration of CLOi Guidbot
+# System Configuration of CLOi Guidbot named as Airstar
+![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
 # How to use the dataset
 
