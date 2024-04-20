@@ -21,8 +21,7 @@
 # How to use the dataset
 
 * The dataset will be released after the publication of the paper.
-!ddd
-!ddd
+![Robots](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/2d6f8d98-ce17-4046-8a20-f3963219590c)
 
 
 
