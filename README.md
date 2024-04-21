@@ -21,8 +21,7 @@
 
 # Citation
 
-* BibTeX of CLOi-Mapper (RA-L) will be released after the publication of the paper.
-
+* BibTeX of CLOi-Mapper (RA-L) will be released.
 # System configuration of CLOi guidbot named as Airstar
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
@@ -31,9 +30,8 @@
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/a1816067-d759-4ecb-ae1b-a615acf7b549)
 # How to use the dataset
 
-* The dataset (R9-home§) will be released after the publication of the paper.
-* Blue dots represent nodes after pruning.
-* Gray dots represent nodes before pruning.
+* The dataset (R9-home§) will be released.
+* Blue and gray dots represent nodes before and after pruning, respectively.
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/ca6cc753-71fb-4a94-a03c-6fcd6c70db2b)
 
