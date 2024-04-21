@@ -21,7 +21,7 @@
 
 # Citation
 
-* The BibTeX entry for CLOi-Mapper (to be submitted to IEEE RA-L) will be made available upon publication.
+* The BibTeX entry for CLOi-Mapper (to be submitted to IEEE journal) will be made available upon publication.
 # System configuration of CLOi guidbot named as Airstar
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
