@@ -28,7 +28,7 @@
 # System configuration of CLOi guidbot named as Airstar
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
-* There were too many repetitive patterns in the airport.
+* There were too many repetitive patterns in Incheon International Airport.
  
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/a1816067-d759-4ecb-ae1b-a615acf7b549)
 # How to use the dataset
