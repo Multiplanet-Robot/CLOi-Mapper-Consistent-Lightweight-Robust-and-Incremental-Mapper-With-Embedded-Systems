@@ -25,10 +25,10 @@
 # Citation
 
 * The BibTeX entry for CLOi-Mapper (to be submitted to IEEE journal) will be made available upon publication.
-# System configuration of CLOi guidbot named as Airstar
+# System configuration of CLOi guidebot named as Airstar
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
-* There were too many repetitive patterns in Incheon International Airport.
+* There were too many repetitive patterns at Incheon International Airport.
  
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/a1816067-d759-4ecb-ae1b-a615acf7b549)
 # How to use the dataset
@@ -46,7 +46,7 @@ on the backbone.
 
 Incremental mapping results at Incheon International Airport: (a) A CAD map, (b) the mapping result of case D1, (c) the
 mapping result of case D2. Gray regions are occupied spaces, and white-colored regions are free
-spaces. Identical colored frame nodes means that they were generated at the same epoch.
+spaces. Identical colored frame nodes mean that they were generated at the same epoch.
 
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/00ecac5c-ee82-49a3-aafb-18656e9be439)
