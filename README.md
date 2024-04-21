@@ -4,7 +4,8 @@
  ![](https://www.lge.co.kr/lgekor/asset/company/images/about/ci_img03.jpg)
  ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/9e39d2db-f7ac-45cc-a50d-d713db8853bd)
 
-* DongKi Noh, Advanced Robotics Lab. LG Electronics Inc. (E-mail: dongki.noh@lge.com)
+* DongKi Noh, Advanced Robotics Lab. LG Electronics Inc. (E-mail: dongki.noh@lge.com, dongki.noh@kaist.ac.kr)
+* Duckyu Choi, School of Electrical Engineering at KAIST (E-mail: duckyu@kaist.ac.kr)
 * Jeongsik Choi, Advanced Robotics Lab. LG Electronics Inc. (E-mail: jeongs.choi@lge.com)
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
 * Gyuho Eoh, Department of Mechatronics Engineering, Tech University of Korea(E-mail: gyuho.eoh@tukorea.ac.kr)
