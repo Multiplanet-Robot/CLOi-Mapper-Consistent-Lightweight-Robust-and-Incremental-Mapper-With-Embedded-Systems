@@ -2,6 +2,8 @@
 
 # Organizations and participants
  ![](https://www.lge.co.kr/lgekor/asset/company/images/about/ci_img03.jpg)
+ ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/9e39d2db-f7ac-45cc-a50d-d713db8853bd)
+
 * DongKi Noh, Advanced Robotics Lab. LG Electronics Inc. (E-mail: dongki.noh@lge.com)
 * Jeongsik Choi, Advanced Robotics Lab. LG Electronics Inc. (E-mail: jeongs.choi@lge.com)
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
