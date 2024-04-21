@@ -5,6 +5,7 @@
 * DongKi Noh, Advanced Robotics Lab. LG Electronics Inc. (E-mail: dongki.noh@lge.com)
 * Jeongsik Choi, Advanced Robotics Lab. LG Electronics Inc. (E-mail: jeongs.choi@lge.com)
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
+* Gyuho Eoh, Department of Mechatronics Engineering, Tech University of Korea(E-mail: gyuho.eoh@tukorea.ac.kr)
 
 # Goals
 * This study focuses on extensible methods to fuse sensors complementarily in different combinations.
