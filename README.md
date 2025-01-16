@@ -38,7 +38,8 @@
 * The dataset (R9-home§) and code for data parsing will be released available upon publication.
 * Blue and gray dots represent nodes before and after pruning, respectively.
 * How to get data from log files
-  1. "SLAM_pose.co"
+
+1. "SLAM_pose.co"
 - SLAM pose data
 	int nKeyFrameIx;		// keyframe index
 	int nMapIx;			// local map index
