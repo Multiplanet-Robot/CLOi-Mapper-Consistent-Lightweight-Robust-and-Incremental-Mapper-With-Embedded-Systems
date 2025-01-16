@@ -40,7 +40,6 @@
 * How to get data from log files
 
 1. "SLAM_pose.co": SLAM pose data
-
 <pre>
 <code>
 	int nKeyFrameIx;		// keyframe index
@@ -57,6 +56,42 @@
  	fclose(pFile);
 </code>
 </pre>
+2. "PoseGraphConstraint.pgc": pose graph constraint
+<pre>
+<code>
+	MultiRobotConstraint_t stPoseConstraint;
+	FILE *pFile = fopen("Log\\PoseGraphConstraint.pgc", "rb");
+	while(!feof(pFile)){
+		fread(&stPoseConstraint, sizeof(MultiRobotConstraint_t), 1, pFile);
+	}
+	fclose(pFile);
+</code>
+</pre>
+3. structures
+<pre>
+<code>
+typedef float			float32_t;
+
+typedef struct 
+{
+	float fXmm;
+	float fYmm;
+	float fDeg;
+}XYThetaFloat32_t;
+
+typedef struct
+{
+	int nR_ref;			// robot index of the reference frame
+	int nF_ref;			// frame index of the reference frame
+	int nR_target;			// robot index of the target frame
+	int nF_target;			// frame index of the target frame
+	XYThetaFloat32_t stMotion;	// x, y, theta(deg)
+	float32_t afW[9];		// 3by3 information matrix
+} MultiRobotConstraint_t;
+</code>
+</pre>
+
+
 
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/ca6cc753-71fb-4a94-a03c-6fcd6c70db2b)
