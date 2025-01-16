@@ -38,6 +38,20 @@
 * The dataset (R9-home§) and code for data parsing will be released available upon publication.
 * Blue and gray dots represent nodes before and after pruning, respectively.
 * How to get data from log files
+  1. "SLAM_pose.co"
+- SLAM pose data
+	int nKeyFrameIx;		// keyframe index
+	int nMapIx;			// local map index
+	int nSceneIx;			// local scene index
+	XYThetaFloat32_t stSLAMPose;	// slam pose
+ 	FILE* pFile = fopen("Log\\SLAM_pose.co", "rb");
+ 	while(!feof(pFile)){
+		fread(&nKeyFrameIx, sizeof(int), 1, pFile);
+		fread(&nMapIx, sizeof(int), 1, pFile);
+		fread(&nSceneIx, sizeof(int), 1, pFile);
+		fread(&stSLAMPose, sizeof(XYThetaFloat32_t), 1, pFile);
+ 	}
+ 	fclose(pFile);
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/ca6cc753-71fb-4a94-a03c-6fcd6c70db2b)
 
