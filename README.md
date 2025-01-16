@@ -42,7 +42,9 @@
 1. "SLAM_pose.co": SLAM pose data
    
 	int nKeyFrameIx;		// keyframe index
+
 	int nMapIx;			// local map index
+
 	int nSceneIx;			// local scene index
 	XYThetaFloat32_t stSLAMPose;	// slam pose
  	FILE* pFile = fopen("Log\\SLAM_pose.co", "rb");
