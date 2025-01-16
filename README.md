@@ -42,29 +42,29 @@
 1. "SLAM_pose.co": SLAM pose data
 <pre>
 <code>
-	int nKeyFrameIx;		// keyframe index
-	int nMapIx;			// local map index
-	int nSceneIx;			// local scene index
-	XYThetaFloat32_t stSLAMPose;	// slam pose
- 	FILE* pFile = fopen("Log\\SLAM_pose.co", "rb");
- 	while(!feof(pFile)){
-		fread(&nKeyFrameIx, sizeof(int), 1, pFile);
-		fread(&nMapIx, sizeof(int), 1, pFile);
-		fread(&nSceneIx, sizeof(int), 1, pFile);
-		fread(&stSLAMPose, sizeof(XYThetaFloat32_t), 1, pFile);
- 	}
- 	fclose(pFile);
+int nKeyFrameIx;		// keyframe index
+int nMapIx;			// local map index
+int nSceneIx;			// local scene index
+XYThetaFloat32_t stSLAMPose;	// slam pose
+FILE* pFile = fopen("Log\\SLAM_pose.co", "rb");
+while(!feof(pFile)){
+	fread(&nKeyFrameIx, sizeof(int), 1, pFile);
+	fread(&nMapIx, sizeof(int), 1, pFile);
+	fread(&nSceneIx, sizeof(int), 1, pFile);
+	fread(&stSLAMPose, sizeof(XYThetaFloat32_t), 1, pFile);
+}
+fclose(pFile);
 </code>
 </pre>
 2. "PoseGraphConstraint.pgc": pose graph constraint
 <pre>
 <code>
-	MultiRobotConstraint_t stPoseConstraint;
-	FILE *pFile = fopen("Log\\PoseGraphConstraint.pgc", "rb");
-	while(!feof(pFile)){
-		fread(&stPoseConstraint, sizeof(MultiRobotConstraint_t), 1, pFile);
-	}
-	fclose(pFile);
+MultiRobotConstraint_t stPoseConstraint;
+FILE *pFile = fopen("Log\\PoseGraphConstraint.pgc", "rb");
+while(!feof(pFile)){
+	fread(&stPoseConstraint, sizeof(MultiRobotConstraint_t), 1, pFile);
+}
+fclose(pFile);
 </code>
 </pre>
 3. structures
