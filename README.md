@@ -39,8 +39,8 @@
 * Blue and gray dots represent nodes before and after pruning, respectively.
 * How to get data from log files
 
-1. "SLAM_pose.co"
-- SLAM pose data
+1. "SLAM_pose.co": SLAM pose data
+   
 	int nKeyFrameIx;		// keyframe index
 	int nMapIx;			// local map index
 	int nSceneIx;			// local scene index
