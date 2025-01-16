@@ -25,8 +25,19 @@
 * Node pruning to mitigate the degradation of measurements from low-cost sensors
 
 # Citation
-
-* The BibTeX entry for CLOi-Mapper (to be submitted to IEEE journal) will be made available upon publication.
+<pre>
+<code>
+@ARTICLE{10598316noh,
+  author={Noh, DongKi and Lim, Hyungtae and Eoh, Gyuho and Choi, Duckyu and Choi, Jeongsik and Lim, Hyunjun and Baek, SeungMin and Myung, Hyun},
+  journal={IEEE Robot. Automat. Lett.},
+  title={{CLOi-Mapper}: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services}, 
+  year={2024},
+  volume={9},
+  number={9},
+  pages={7541-7548},
+}
+</code>
+</pre>
 # System configuration of CLOi guidebot named as Airstar
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/5338fd65-868c-44d4-93fa-5d68668a95d2)
 
