@@ -37,6 +37,7 @@
 
 * The dataset (R9-home§) and code for data parsing will be released available upon publication.
 * Blue and gray dots represent nodes before and after pruning, respectively.
+* How to get data from log files
 
 ![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/ca6cc753-71fb-4a94-a03c-6fcd6c70db2b)
 
