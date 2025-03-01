@@ -51,8 +51,7 @@
 <img src=https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/a1816067-d759-4ecb-ae1b-a615acf7b549>
 </p>
 
- 
-![image]()
+
 # How to use the dataset
 
 * The dataset (R9-home§) and code for data parsing will be released available upon publication.
