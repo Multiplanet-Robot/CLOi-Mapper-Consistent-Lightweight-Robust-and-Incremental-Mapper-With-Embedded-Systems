@@ -125,6 +125,8 @@ Incremental mapping results at Incheon International Airport: (a) A CAD map, (b)
 mapping result of case D2. Gray regions are occupied spaces, and white-colored regions are free
 spaces. Identical colored frame nodes mean that they were generated at the same epoch.
 
+<p align="center">
+<img src=https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/00ecac5c-ee82-49a3-aafb-18656e9be439>
+</p>
 
-![image](https://github.com/Multiplanet-Robot/CLOi-Mapper-Consistent-Lightweight-Robust-and-Incremental-Mapper-With-Embedded-Systems/assets/93900066/00ecac5c-ee82-49a3-aafb-18656e9be439)
 
