@@ -54,7 +54,7 @@
 
 # How to use the dataset
 
-* The dataset (R9-home§) and code for data parsing will be released available upon publication.
+* The dataset (R9-home§) and code for data parsing have been released available upon publication.
 * Blue and gray dots represent nodes before and after pruning, respectively.
 * How to get data from log files
 
